@@ -1,0 +1,48 @@
+html {
+    font-size: 10px;
+    font-family: "Oregano", cursive;
+    background-color:rgb(236, 208, 232);
+}
+
+h1 {
+    font-size: 80px;
+    font-family: "Sedgwick Ave", cursive;
+    text-align: center;
+    background-color:rgb(201, 239, 169);
+    margin: 0;
+    padding: 20px 0;
+    color: green;
+    text-shadow: 3px 3px 1px darkkhaki;
+}
+
+h2 {
+    font-size: 25px;
+    color: rgb(174, 135, 38)
+}
+
+p, li {
+    font-size: 17px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+#bio {
+    color: brown;
+}
+
+#list {
+    color: rgb(88, 34, 139);
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color:rgb(171, 229, 227);
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(8, 90, 64);
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
